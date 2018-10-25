@@ -1,1 +1,4 @@
 # onlinevoteportal
+FIRST IMPORT THE  SQL FILE 
+OPEN THE VOTE.PHP TO START
+
