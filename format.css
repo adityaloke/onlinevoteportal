@@ -1,0 +1,162 @@
+.div1
+{
+	background-color:white;
+	height: 150px;
+	border: 2px solid black;
+	border-width: thin;
+	cursor: default;
+	border-radius: 100px;
+	margin: 10px;
+}
+.div2
+{
+	border: 5px solid black;
+	border-radius: 100px;
+	width: 300px;
+	font-size: 40px;
+	font-family: Verdana;
+	color: black;
+	position: absolute;
+	top: 50px;
+	left: 80px;
+	text-align: center;
+	padding: 5px;
+	cursor: default;
+
+}
+p
+{
+	border: 2px dotted black;
+	border-radius: 100px;
+	width: 700px;
+	font-size: 20px;
+	font-family: Verdana;
+	color: black;
+	position: absolute;
+	top: 30px;
+	right:80px;
+	text-align: center;
+	padding: 5px;
+}
+#xyz1{
+	width: 100%;
+	height: 100%;
+}
+.side
+{
+	border: 2px solid black;
+	border-width: thin;
+	width: 300px;
+	height: 400px;
+	background-color:white;
+	margin-top: 5px;
+	border-radius: 100px;
+	margin: 10px;
+}
+#id:hover 
+{
+    background-color: #777;
+}
+.HOME
+{
+	position: absolute;
+	left: 95px;
+	top: 250px;
+	border: 2px solid black;
+	border-radius:50px;
+	font-size: 30px;
+	font-family: Verdana;
+	color: black;
+	text-align:center;
+	padding: 5px;
+	background-color:white; 
+	cursor: pointer;
+	width: 150px;
+
+}
+
+#img1
+{
+	height: 100px;
+	position: absolute;
+	top:30px;
+	left:410px;
+}
+.HOST
+{
+	position: absolute;
+	left: 95px;
+	top: 350px;
+	border: 2px solid black;
+	border-radius:50px;
+	font-size: 30px;
+	font-family: Verdana;
+	color: black;
+	text-align:center;
+	padding: 5px;
+	background-color:white; 
+	cursor: pointer;
+	width: 150px;
+}
+.VOTE
+{
+	position: absolute;
+	left: 95px;
+	top: 450px;
+	border: 2px solid black;
+	border-radius:50px;
+	font-size: 30px;
+	font-family: Verdana;
+	color: black;
+	text-align:center;
+	padding: 5px;
+	background-color:white; 
+	cursor: pointer;
+	width: 150px;
+
+}
+.maindiv
+{
+	border: 2px solid black;
+	border-width: thin;
+	width: 1010px;
+	height: 400px;
+	background-color:white;
+	margin-top: 5px;
+	border-radius: 100px;
+	margin: 10px;
+	position: absolute;
+	left: 310px;
+	top: 160px;
+}
+#lion_logo
+{
+	height: 100px;
+	position: absolute;
+	top:280px;
+	right:50px;
+}
+#elec_logo
+{
+	height: 80px;
+	position: absolute;
+	top:290px;
+	right:160px;
+}
+span
+{
+	font-size: 18px;
+	position: absolute;
+	top:250px;
+	right:105px;
+}
+#gif
+{
+	border-radius: 60px;
+	height:160px;
+	width: 200px;
+	position: absolute;
+	top:50px;
+	right:58px;
+}
+}
